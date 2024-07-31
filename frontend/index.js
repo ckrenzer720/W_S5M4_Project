@@ -15,6 +15,11 @@ async function moduleProject4() {
   ]
 
   // 👉 Tasks 1 - 5 go here
+// #### 👉 TASK 1 - Hide the div#weatherWidget
+document.querySelector("#weatherWidget").style.display = "none";
+
+// #### 👉 TASK 2 - Add an event listener to the dropdown
+
 
   // 👆 WORK WORK ABOVE THIS LINE 👆
 

@@ -51,7 +51,7 @@ Make sure to read and follow the instructions below carefully. Good luck!
 
 - You will complete your tasks inside the `frontend/index.js` file. Do not modify any other files. Detailed instructions for each task can be found below.
 
-- The JSON data needed to build the weather widget comes from just one endpoint: `[GET] http://localhost:3003/api/weather`.
+- The JSON data needed to build the weather widget comes from just one endpoint: `[GET] http://localhost:3003/api/weatherc`.
 
 - If you test this endpoint in Postman or in the browser, you should see the server returning JSON containing weather data for the city of San Francisco.
 
